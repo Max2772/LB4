@@ -1,7 +1,7 @@
 #ifndef HEAD_H
 #define HEAD_H
 
-long long readIntegerInLine();
+int readIntegerInLine();
 long double readDoubleInLine();
 
 #endif
