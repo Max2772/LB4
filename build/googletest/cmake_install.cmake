@@ -1,4 +1,4 @@
-# Install script for directory: /home/user/Documents/453502/ОАиП/LR4/Task_1/googletest
+# Install script for directory: /home/user/Documents/453502/ОАиП/LR4/Task_2/googletest
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,7 +44,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/user/Documents/453502/ОАиП/LR4/Task_1/build/googletest/googlemock/cmake_install.cmake")
+  include("/home/user/Documents/453502/ОАиП/LR4/Task_2/build/googletest/googlemock/cmake_install.cmake")
 
 endif()
 
